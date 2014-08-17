@@ -14,4 +14,4 @@ if you want the full height and width of this image, try using:
 
 http://www.yourdomainname.com/images/full/full/image_url.jpg
 
-Works with png or gif images
+Works with jpg or png or gif images
